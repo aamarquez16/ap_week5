@@ -45,3 +45,9 @@
 # Length and Count:
 # a. Calculate the number of characters (including spaces and punctuation) in the word/phrase: "Supercalifragilisticexpialidocious".
 # b. Count the number of times the letter 'i' appears in the same word/phrase.
+
+
+magic = abracadabra
+print(magic[5])
+print(magic[-2])
+print(magic.index("c"))
